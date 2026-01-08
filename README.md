@@ -121,6 +121,3 @@ The generated documents follow IEEE conference paper guidelines:
 - All processing happens in-memory
 - Images are cleared after session ends
 
-## License
-
-MIT
